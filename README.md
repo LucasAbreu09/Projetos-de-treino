@@ -1,2 +1,2 @@
 # Projetos-de-treino
-Repositório para armazenar meus treinos
+Repositório para armazenar Treinos, colocando em pratica meu conhecimento
